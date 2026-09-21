@@ -1,0 +1,71 @@
+200,0,'Ste-Marthe',2
+201,0,'Term Ctr-Ville',2
+401,0,'Term Ctr-Ville',4
+400,0,'Term Légendes',4
+501,0,'Term Ctr-Ville',5
+500,0,'Terminus UQTR',5
+601,0,'Carref 3Riv-O',6
+600,0,'Terminus UQTR',6
+801,0,'Galeries Cap',8
+800,0,'St-Maurice/Patry',8
+900,0,'Keranna',9
+901,0,'Terminus UQTR',9
+1000,0,'Ste-Marthe',10
+1001,0,'Term Ctr-Ville',10
+1100,0,'District 55',11
+1101,0,'Term Ctr-Ville',11
+1200,0,'St-Louis-De-France',12
+1201,0,'Term Fusey',12
+1300,0,'Papineau/Après Matteau',13
+1301,0,'Term Ctr-Ville',13
+1400,0,'Ind/St-Michel',14
+1401,0,'Terminus UQTR',14
+1600,0,'District 55',16
+1601,0,'Terminus UQTR',16
+1700,0,'Galeries Cap',17
+1701,0,'Term Fusey',17
+2500,0,'Gilles-Lupien/Parent',25
+2501,0,'Term Ctr-Ville',25
+2601,0,'Term Ctr-Ville',26
+2600,0,'Terminus UQTR',26
+5000,0,'Terminus UQTR',50
+6000,0,'Cooke/Thibeau',60
+6001,0,'Terminus UQTR',60
+8901,0,'Carref 3Riv-O',89
+8900,0,'Pointe-Du-Lac',89
+111800201,0,'Cour Keranna',1118002
+111800200,0,'Loire, Champs-Élysées',1118002
+111800301,0,'Cherbourg, Laflamme',1118003
+111800300,0,'Cour Keranna',1118003
+111800400,0,'Cour Keranna',1118004
+111800401,0,'Jean 23, Brodeur',1118004
+111800500,0,'Cooke, Thibeau',1118005
+111800501,0,'Keranna',1118005
+160900100,0,'Carref 3Riv-O',1609001
+160900101,0,'Cour École Pionniers',1609001
+190300200,0,'Cour Séminaire',1903002
+190300201,0,'Odacité',1903002
+190300300,0,'Cour CMI',1903003
+190300301,0,'Kruger/Urbania2',1903003
+190300400,0,'District 55',1903004
+190300401,0,'Jean-XXIII/Mariette-Duval',1903004
+1141500000,0,'Term Ctr-Ville',11415000
+3080100000,0,'Cour École Chavigny',30801000
+3080100001,0,'St-Jean/Amyot',30801000
+3080200000,0,'Cour École Chavigny',30802000
+3080200001,0,'Loire, Champs-Élysées',30802000
+3080300000,0,'Cour École Chavigny',30803000
+3080300001,0,'Gilles-Lupien, Parent',30803000
+3080400000,0,'Cour École Chavigny',30804000
+3080400001,0,'Term Légendes',30804000
+5190100000,0,'Estacades',51901000
+5190100001,0,'Thibeau, Fafard',51901000
+5190200001,0,'Cardinal-Roy, Prairies',51902000
+5190300000,0,'Estacades',51903000
+5190300001,0,'Oslo, Port-Louis',51903000
+5190400000,0,'Estacades',51904000
+19200100000,0,'Cour École Pionniers',192001000
+19200100001,0,'St-Jean/Côte Richelieu',192001000
+19200200000,0,'Cour Séminaire',192002000
+19200300001,0,'Collège Marie-De-L''Incarnation (571)',192003000
+19200300000,0,'Cooke/Thibeau (733)',192003000
