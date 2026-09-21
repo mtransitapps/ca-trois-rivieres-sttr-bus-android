@@ -1,0 +1,74 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "ANo",
+            "route_id": 11415000
+        },
+        {
+            "route_short_name": "CHA",
+            "route_id": 30801000
+        },
+        {
+            "route_short_name": "CHB",
+            "route_id": 30802000
+        },
+        {
+            "route_short_name": "CHC",
+            "route_id": 30803000
+        },
+        {
+            "route_short_name": "CHD",
+            "route_id": 30804000
+        },
+        {
+            "route_short_name": "ESA",
+            "route_id": 51901000
+        },
+        {
+            "route_short_name": "ESB",
+            "route_id": 51902000
+        },
+        {
+            "route_short_name": "ESC",
+            "route_id": 51903000
+        },
+        {
+            "route_short_name": "ESD",
+            "route_id": 51904000
+        },
+        {
+            "route_short_name": "STA",
+            "route_id": 192001000
+        },
+        {
+            "route_short_name": "STB",
+            "route_id": 192002000
+        },
+        {
+            "route_short_name": "STC",
+            "route_id": 192003000
+        }
+    ],
+    "route_id_previous_char_configs": [
+        {
+            "char": "SC",
+            "id_part": 1903000
+        },
+        {
+            "char": "KR",
+            "id_part": 1118000
+        },
+        {
+            "char": "PI",
+            "id_part": 1609000
+        }
+    ],
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [],
+    "stop_id_cleanup_regex": "^0:",
+    "stop_name_cleaners": []
+}

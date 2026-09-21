@@ -1,0 +1,38 @@
+2,'2','Centre-Ville ↔ Ste-Marthe','EB2D2E',50,3
+4,'4','Ctr-Ville ↔ Légendes / Forges','A2692E',52,3
+5,'5','UQTR ↔ Centre-Ville','00AC6E',53,3
+6,'6','UQTR ↔ Carrefour TRO','EF529D',54,3
+8,'8','Galeries Cap ↔ St-Maurice / Patry','F58320',56,3
+9,'9','UQTR ↔ Pointe-Du-Lac','42BFBF',57,3
+10,'10','Centre-Ville ↔ Ste-Marthe','FFD600',1567,3
+11,'11','Centre-Ville ↔ District 55','68BD45',1568,3
+12,'12','Fusey ↔ St-Louis-De-France','0A9F9F',1569,3
+13,'13','Ctr-Ville ↔ Papineau / Après Matteau','27AADF',1570,3
+14,'14','UQTR ↔ Parc Industriel','223F99',1571,3
+16,'16','UQTR ↔ District 55','6600D9',1573,3
+17,'17','Fusey ↔ Galeries Du Cap','6B0D0D',1574,3
+25,'25','Ctr-Ville ↔ Gilles Lupien / Parent','000000',1603,3
+26,'26','Centre-Ville ↔ UQTR','FFA07A',1604,3
+50,'50','UQTR ↔ Carrefour Du Savoir','00B3B3',1691,3
+60,'60','UQTR ↔ Cooke / Thibeau','808080',1722,3
+89,'89','Carrefour TRO ↔ Pointe-Du-Lac','42BFBF',1793,3
+1118002,'KR2','Keranna 2','404040',74667,3
+1118003,'KR3','Keranna 3','404040',74668,3
+1118004,'KR4','Keranna 4','404040',74669,3
+1118005,'KR5','Keranna 5','404040',74670,3
+1609001,'PI1','Pionniers 1','404040',79192,3
+1903002,'SC2','KER-SSJ-CMI 2','404040',81890,3
+1903003,'SC3','SSJ-CMI 3','404040',81891,3
+1903004,'SC4','SSJ-CMI 4','404040',81892,3
+11415000,'ANo','Avenues-Nouvelles','404040',64994,3
+30801000,'CHA','Chavigny A','404040',66684,3
+30802000,'CHB','Chavigny B','404040',66685,3
+30803000,'CHC','Chavigny C','404040',66686,3
+30804000,'CHD','Chavigny D','404040',66687,3
+51901000,'ESA','Estacades A','404040',68947,3
+51902000,'ESB','Estacades B','404040',68948,3
+51903000,'ESC','Estacades C','404040',68949,3
+51904000,'ESD','Estacades D','404040',68950,3
+192001000,'STA','SSJ-CMI-PION A','404040',82432,3
+192002000,'STB','SSJ-B','404040',82433,3
+192003000,'STC','SSJ-C','404040',82434,3
